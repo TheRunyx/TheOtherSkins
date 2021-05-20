@@ -1,6 +1,14 @@
 {
     "skins": [
         {
+            "name": "Spiderman",
+            "author": "Runyx",
+            "package": "Custom Skins",
+            "condition": "None",
+            "resource": "spiderman.skin",
+            "reshash": "2723b9c1402604d7bc4f16033fdbbce2"
+        },
+        {
             "name": "Archae Recolor",
             "author": "Runyx",
             "package": "Recolor Skins",
