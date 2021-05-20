@@ -1,1 +1,12 @@
-
+{
+    "skins": [
+        {
+            "name": "Test",
+            "author": "Testing",
+            "package": "Developer Skins",
+            "condition": "None",
+            "resource": "test.skin",
+            "reshash": "ee5038a08cfb54c7b1720ef77ae014cc"
+        }
+    ]
+}
