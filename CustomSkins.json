@@ -1,6 +1,14 @@
 {
     "skins": [
         {
+            "name": "Airship Anim Test",
+            "author": "Runyx",
+            "package": "Testing Skins",
+            "condition": "None",
+            "resource": "airshiptest.skin",
+            "reshash": "2cb252ca8a02800b0d3dadfb0bac341d"
+        },
+        {
             "name": "Spiderman",
             "author": "Runyx",
             "package": "Custom Skins",
