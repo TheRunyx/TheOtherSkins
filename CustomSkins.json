@@ -7,30 +7,6 @@
             "condition": "None",
             "resource": "airshiptest.skin",
             "reshash": "900e191bdbac6dc3647478092790dc66"
-        },
-        {
-            "name": "Spiderman",
-            "author": "Runyx",
-            "package": "Custom Skins",
-            "condition": "None",
-            "resource": "spiderman.skin",
-            "reshash": "2723b9c1402604d7bc4f16033fdbbce2"
-        },
-        {
-            "name": "Archae Recolor",
-            "author": "Runyx",
-            "package": "Recolor Skins",
-            "condition": "None",
-            "resource": "archaerecolor.skin",
-            "reshash": "3e125ee6abdb1f5b6c0b60ba37b40cb3"
-        },
-        {
-            "name": "Archae Recolor 2",
-            "author": "Runyx",
-            "package": "Recolor Skins",
-            "condition": "None",
-            "resource": "archaerecolor2.skin",
-            "reshash": "6e59b374a128a307ad2dee2242d2c474"
         }
     ]
 }
